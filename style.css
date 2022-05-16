@@ -1,0 +1,58 @@
+#header{
+	
+	background-color:#ededed;
+	margin-left:0px;
+}
+.col{
+	
+	background-color:yellow;
+	height:40px;
+}
+.ac{
+	text-align:center;
+	border-bottom:1px solid red;
+}
+
+button{
+	
+	width:60px;
+	margin-top:5px;
+}
+.col-md-2{
+	
+	background-color:white;
+	height:530px;
+    width:220px;
+	margin-left:9px;
+	
+}
+
+.col-md-3{
+	
+	background-color:white;
+	height:500px;
+	width:237px;
+	margin-top:10px;
+	margin-left:10px;
+	
+}
+.img{
+	
+	margin-top:10px;
+	margin-left:-3px;
+	height:40%;
+	width:188px;
+	
+	
+}
+
+
+.copy{
+	
+	background-color:#ededed;
+	
+}
+.mug{
+	
+	text-align:center;
+}

@@ -1,0 +1,61 @@
+#header{
+	
+	background-color:orange;
+}
+.col{
+	
+	background-color:yellow;
+	height:40px;
+}
+.ac{
+	text-align:center;
+	border-bottom:1px solid red;
+}
+.col-1{
+	
+	background-color:red;
+	width:70%;
+}
+button{
+	
+	width:60px;
+	margin-top:5px;
+}
+.col-2{
+	
+	background-color:pink;
+	height:1100px;
+	
+	
+}
+.col-10{
+	
+	background-color:red;
+
+}
+.col-3{
+	
+	background-color:yellow;
+	height:500px;
+	width:252px;
+	margin-left:15px;
+	margin-top:10px;
+	
+}
+p{
+	
+	
+}
+.col-6{
+	
+	background-color:green;
+	height:80px;
+}
+.img{
+	
+	margin-top:10px;
+	margin-left:8px;
+	height:46%;
+	
+	
+}
